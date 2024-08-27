@@ -1,7 +1,17 @@
 body {
-    background-color:red
+    background-color:red (153, 50 text-align: center;
+    
 }
 
 p { 
     color: aquamarine;
+
+}
+
+maria { 
+  font-style: italic;
+}
+
+.imgl{
+    width: 50%;
 }
