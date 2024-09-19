@@ -1,17 +1,28 @@
 body {
     background-color:red (153, 50 text-align: center;
-    
 }
 
 p { 
     color: aquamarine;
-
+text-align: center;
 }
-
 maria { 
   font-style: italic;
+  color: darkgrey;
+}
+São Paulo {
+    width: 30%;
+}
+header {
+    border-bottom: solid 2px rgb blue (42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb green ( 67,155,108);
 }
 
-.imgl{
-    width: 50%;
+section {
+background: rgb red (195, 29, 29);
+padding-bottom: 40px;
+padding-top: 50px;
+display: flex;
 }
